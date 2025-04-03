@@ -1,4 +1,4 @@
--r requirements.txt  # include runtime dependencies
+-r requirements.txt  # include runtime dependencies (requirements.txt)
 
 black==25.1.0
 isort==6.0.1
