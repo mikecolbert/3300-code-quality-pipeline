@@ -12,7 +12,8 @@ This is a template repository for learning Python code quality concepts using:
 1. `python -m venv venv`
 2. Mac `source venv/bin/activate` Windows: `venv\Scripts\activate`
 3. `pip install -r requirements-dev.txt`
-4. `pre-commit install`
+4. `https://github.com/mikecolbert/3300-code-quality-pipeline.git`
+5. `pre-commit install`
 
 ## Usage
 
