@@ -28,12 +28,12 @@ Tasks can be run with `Cmd+Shift+B` / `Ctrl+Shift+B`.
 
 ## Structure
 
-.
-├── .pre-commit-config.yaml
-├── .vscode
-│ └── settings.json
-│ └── tasks.json
-├── requirements-dev.txt
-├── tasks.json
-├── example.py
-└── README.md
+.  
+├── .pre-commit-config.yaml  
+├── .vscode  
+│ └── settings.json  
+│ └── tasks.json  
+├── requirements-dev.txt  
+├── tasks.json  
+├── example.py  
+└── README.md  
