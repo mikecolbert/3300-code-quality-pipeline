@@ -31,8 +31,8 @@ Tasks can be run with `Cmd+Shift+B` / `Ctrl+Shift+B`.
 .  
 ├── .pre-commit-config.yaml  
 ├── .vscode  
-│ └── settings.json  
-│ └── tasks.json  
+│      └── settings.json  
+│      └── tasks.json  
 ├── requirements-dev.txt  
 ├── tasks.json  
 ├── example.py  
